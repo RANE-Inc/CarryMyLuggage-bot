@@ -1,0 +1,3 @@
+[submodule "ros2_ws/src/luggage_av"]
+	path = ros2_ws/src/luggage_av
+	url = https://github.com/RANE-Inc/luggage_av
